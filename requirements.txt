@@ -1,0 +1,8 @@
+streamlit
+google-generativeai
+python-dotenv
+pytesseract
+tesseract
+pdf2image
+opencv-python
+streamlit_extras

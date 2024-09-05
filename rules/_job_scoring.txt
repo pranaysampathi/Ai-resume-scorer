@@ -1,0 +1,1 @@
+Overall return the Suggestions for the above provided resume based on the above job description and resume match scoring system. The input will be a dictionary with keys as the components and values as the scores. The output should be the total score and individual score of the resume.
